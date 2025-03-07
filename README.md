@@ -24,7 +24,7 @@ Follow these steps to set up and run the project on your local system.
 
 ### Clone the Repository
 ```sh
- git clone https://github.com/dushyantmehta07/Bank-Management-System.git
+ git clone [https://github.com/dushyantmehta07/Bank-Management-System.git]
 ```
 
 ### Import the Project
